@@ -19,6 +19,7 @@ import org.springframework.boot.gradle.tasks.bundling.BootJar
 
 apply plugin: 'io.spring.dependency-management'
 apply plugin: "io.franzbecker.gradle-lombok"
+apply plugin: "org.springframework.boot"
 
 
 dependencies {
